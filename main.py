@@ -1,4 +1,4 @@
-```py
+
 import random
 
 low = 1
@@ -20,4 +20,4 @@ while playerResponse != "y":
         print("Ya! I found your number.")
         break
     else:
-        print("Please answer with only l, h, or y.")```
+        print("Please answer with only l, h, or y.")
